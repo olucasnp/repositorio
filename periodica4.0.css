@@ -1,0 +1,58 @@
+th, td {
+    width: 100px;
+    height: 40px;
+    margin: 1px 
+    
+  }
+.mtsalcalinos{
+  background-color: #F1B200;
+}
+  
+
+h2{
+  margin: 0%;
+  text-align: center;
+}
+.center2
+{
+  text-align: center;
+}
+
+.gasesnobres
+{
+  background-color: #2793E0;
+}
+.naometal{
+  background-color: #96CD30;
+}
+
+.mesclagem{
+  border: 0;
+}
+.metalterroso{
+  background-color:#EADA00;
+}
+.metaltransicao{
+  background-color: #EB8E8E;
+}
+.halogenio{
+  background-color: #5AC3E8;
+}
+.semimetais{
+  background-color: #44A69C;
+}
+.outrosmetais{
+  background-color: #91BDCB;
+}
+.lantanideos{
+  background-color: #7BDEE5;
+}
+.actinidios{
+  background-color: #D49BCD;
+}
+  .ultimaTabela{
+   width: 100%;
+  }
+.arrumar{
+  text-align: center;
+}

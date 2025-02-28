@@ -1,0 +1,51 @@
+*{
+    padding: 0; 
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.img-pr{
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    margin: 10px 0 0 0 ;
+    padding: 15px;
+    min-height: fit-content;
+
+    & img {
+        border: 8px green solid ;
+        border-radius: 8px;
+    }
+}
+#titulo {
+    text-align: center;
+}
+
+.paragrafo {
+    width: 35vw;
+}
+
+.butao{
+    background-color: green;
+  opacity: 1;
+}
+.butao:hover {
+    background-color: green ;
+    opacity: 0.5;
+}
+
+.butao{
+    border: 3px green solid ;
+        border-radius: 8px;
+}
+
+.butaos:hover{
+    background-color: green;
+    opacity: 1;
+    background-color: green ;
+    opacity: 0.5;
+    border: 3px green solid ;
+    border-radius: 8px;
+}
+
+
